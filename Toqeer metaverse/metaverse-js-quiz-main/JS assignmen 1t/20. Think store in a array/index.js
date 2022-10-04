@@ -1,0 +1,1 @@
+const rivers = ["sutluj", "sindh", "ravi", "chanab", "swat river"];
